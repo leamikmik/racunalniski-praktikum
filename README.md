@@ -1,8 +1,8 @@
 # Računalniški praktikum
 FMF rac. praktikum 1
 
-Bljiznice:
-Win+Up -> Maximize window
-Win+Down -> Minimize window
-Alt+Esc -> Cycle windows
-Alt+Space -> Open context popup
+**Bljižnice:** <br/>
+- Win+Up -> Maximize window <br/>
+- Win+Down -> Minimize window <br/>
+- Alt+Esc -> Cycle windows <br/>
+- Alt+Space -> Open context popup 
